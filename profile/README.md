@@ -1,2 +1,5 @@
-# .github
-README da conta do Observatório de Economia Criativa.
+# Observatório de Economia Criativa
+
+O Observatório da Economia Criativa (OBEC) é um grupo de pesquisa interinstitucional que reúne docentes e discentes da Universidade Federal do Recôncavo da Bahia (UFRB), da Universidade Federal da Bahia (UFBA), da Universidade do Estado da Bahia (UNEB), além de pesquisadores independentes e de outras instituições, públicas e privadas, para a promoção de atividades de ensino, pesquisa e extensão no campo da economia criativa. Os membros atuam em diversas áreas de conhecimento: artes, comunicação, economia, administração, estatística, gestão e produção cultural, entre outras. Sediado no Instituto de Humanidades, Artes e Ciências da Universidade Federal da Bahia (IHAC/UFBA), o OBEC foi criado em 2014, através de edital da Secretaria de Economia Criativa do Ministério da Cultura, como parte de uma rede de núcleos vinculados a universidades federais do Brasil, com objetivo de produzir informações e conhecimento e gerar experiências e experimentações sobre a economia criativa local e estadual.
+
+Nos siga no Instagram: [![Logo do instagram](https://img.shields.io/static/v1?label=Instagram&message=obecbahia&logo=instagram&logoColor=pink&color=pink&labelColor=red)](https://www.instagram.com/obecbahia/)
